@@ -27,7 +27,6 @@ C’est dire au monde : *"Je suis là. Et je vais laisser une trace."*
 ## 🧭 Ce que tu trouveras ici
 
 - `bio/` → Mon histoire, mes débuts, mes rêves.
-- `vision/` → Mon manifeste, ma philosophie de dev.
 - `projets/` → Mes projets quantiques (et plus).
 - `media/` → Ma photo de profil, mes visuels, mon branding.
 - `contact.md` → Pour me suivre, me parler, ou collaborer.
