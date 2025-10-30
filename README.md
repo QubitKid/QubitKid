@@ -1,4 +1,4 @@
-# 👾 QubitKid – Le Dev Quantique
+# 👾 QubitKid
 
 > "Sautez le pas ou réalisez **VOS** rêves."
 
